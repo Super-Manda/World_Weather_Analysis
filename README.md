@@ -15,6 +15,9 @@
 - **Later, areas with no hotels were dropped.  Goodbye, Albany!**
 ![Drop None](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Dropped%20the%20rows%20with%20no%20hotels.png)
 
+**The final CSV file regarding hotels is here:**
+[Hotel_CSV](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Hotel_CSV.csv)
+
 ### :parasol_on_ground: Create scatter plots of the weather data 
 
 **Comparison of:**

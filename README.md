@@ -26,9 +26,14 @@
 
 
 ###  Vacation Itinerary
+*Given this overall heat map with markers...**
+![Overall heat map with markers](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Itinerary/optional%20heat%20map%20of%20all%20cities.png)
+
+
 **Four cities in Mexico were selected on this bicycle route along unnamed roads:**
 ![Mexico Map](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
 
 
-###  Visualization of the Travel Data
-- **Heatmap with pop-up markers that shows specific cities' information based upon each customer's travel preferences.**
+###  Visualization of this Travel Data
+- **Here is a heat map with pop-up markers that shows specific cities' information based upon the travel preferences.**
+![Mexico heat map with markers](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png)

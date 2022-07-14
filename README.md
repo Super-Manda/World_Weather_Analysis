@@ -9,8 +9,11 @@
 ## :cactus: Analysis
 
 ### :snowman_with_snow: Collect the Data
-- Here is an excerpt from the database:
+- **Here is an excerpt from the entire database:**
 ![Summary_Dataframe](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database_DF_head.png)
+
+- **Later, areas with no hotels were dropped.  Goodbye, Albany!**
+![Drop None](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Dropped%20the%20rows%20with%20no%20hotels.png)
 
 ### :parasol_on_ground: Create scatter plots of the weather data 
 

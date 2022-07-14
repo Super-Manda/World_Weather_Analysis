@@ -25,8 +25,10 @@
 [Hotel_CSV](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Hotel_CSV.csv)
 
 
-:parasol_on_ground:  **Here is a map of possible vacation destinations from the vacation search that remained**
+:parasol_on_ground:  **Here is a map of possible vacation destinations from the vacation search that remained...**
 ![Vacation Search PNG](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Possible%20Vacation%20Destinations.png)
+
+**in the [Vacation Search File](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Vacation_Search.ipynb)!**
 
 
 ###  Vacation Itinerary

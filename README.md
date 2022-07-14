@@ -12,31 +12,21 @@
 - **Here is an excerpt from the entire database:**
 ![Summary_Dataframe](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database_DF_head.png)
 
-- **Later, areas with no hotels were dropped.  Goodbye, Albany!**
+  
+###
+- **Later, areas with no hotels were dropped.  Goodbye, Albany!**  :statue_of_liberty:
 ![Drop None](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Dropped%20the%20rows%20with%20no%20hotels.png)
 
-**The final CSV file regarding hotels is here:**
+- **The final CSV file regarding hotels is here:**
 [Hotel_CSV](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Hotel_CSV.csv)
 
-### :parasol_on_ground: Create scatter plots of the weather data 
 
-**Comparison of:**
-- Latitude versus temperature
-- Latitude versus humidity   
-- Latitude versus cloudiness
-- Latitude versus wind speed
+:parasol_on_ground:  **Here is a map of possible vacation destinations from the vacation search that remained**
+![Vacation Search PNG](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Search/Possible%20Vacation%20Destinations.png)
 
-**Correlations for:**
-- Latitude and temperature
-- Latitude and humidity
-- Latitude and cloudiness
-- Latitude and wind speed
 
-**Heatmaps regarding the following:**
-- Latitude and temperature
-- Latitude and humidity
-- Latitude and cloudiness
-- Latitude and wind speed
+###  Vacation Itinerary
 
-### :statue_of_liberty: Visualization of the Travel Data
+
+###  Visualization of the Travel Data
 - **Heatmap with pop-up markers that shows specific cities' information based upon each customer's travel preferences.**

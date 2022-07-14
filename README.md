@@ -5,6 +5,10 @@
 - Weather data from across 500+ world cities was collected and analyzed in real time.
 - The data was later set to a parameter of 70-90 degrees in order to recommend ideal hotels based on clients' weather preferences in that temperature range.
 
+  - [Original database](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb)
+
+  - [Original CSV](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
+
 
 ## :cactus: Analysis
 

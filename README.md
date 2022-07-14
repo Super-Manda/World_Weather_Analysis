@@ -1,14 +1,16 @@
 #  :city_sunset: World_Weather_Analysis   :sunrise_over_mountains:
 
-## :palm_tree: Overview  (6.1.2)
+## :palm_tree: Overview
 
-- Weather data from across 500+ world cities will be collected and analyzed in real time.
-- PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
+- Weather data from across 500+ world cities was collected and analyzed in real time.
+- The data was later set to a parameter of 70-90 degrees in order to recommend ideal hotels based on clients' weather preferences in that temperature range.
 
 
 ## :cactus: Analysis
 
 ### :snowman_with_snow: Collect the Data
+- Here is an excerpt from the database:
+![Summary_Dataframe](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database_DF_head.png)
 
 ### :parasol_on_ground: Create scatter plots of the weather data 
 

@@ -43,3 +43,5 @@
 ###  Visualization of this Travel Data
 - **Here is a heat map with pop-up markers that shows specific cities' information based upon the travel preferences.**
 ![Mexico heat map with markers](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png)
+
+**To view more about these destinations in Mexico, be sure to visit the [Vacation Itinerary](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Itinerary/Vacation_Itinerary.ipynb)!**

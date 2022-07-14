@@ -26,6 +26,8 @@
 
 
 ###  Vacation Itinerary
+**Four cities in Mexico were selected on this bicycle route along unnamed roads:**
+![Mexico Map](https://github.com/Super-Manda/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
 
 
 ###  Visualization of the Travel Data
